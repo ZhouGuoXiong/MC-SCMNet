@@ -1,4 +1,2 @@
 # MC-SCMNet
-Please contact the authors for the complete DFML dataset and MC-SCMNet code.
-
-The way to download the DFML dataset: Git LFS(Git Large File Storage).
+Please contact the authors for the complete DFML dataset(after data augmentation) and MC-SCMNet code.
